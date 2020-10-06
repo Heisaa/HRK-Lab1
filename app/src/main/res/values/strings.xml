@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Lab1</string>
+    <string name="header">Tokyo</string>
+    <string name="aboutText">Tokyo har ca 14 000 000 invånare och hela Stortokyo är världens mest folkrika storstadsområde med med ca 37 000 000 invånare.</string>
 </resources>
